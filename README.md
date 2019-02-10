@@ -12,4 +12,4 @@ Youtube tutorial: https://www.youtube.com/watch?v=CoUSaNK572E
 - Desmos graphing calculator online: https://www.desmos.com/calculator
 
 # NOTE:
-In the code there is a "Serial.begin(9600);" and a "Serial.println(xAxis);" which are commented out (using a "//" before them). To use these, simply uncomment them. When done troubleshooting: COMMENT THESE! Otherwise you may experience extreme input lag!
+In the code there is a "Serial.begin(9600);" and a "Serial.println(xAxis);" which are commented out (using a "//" before them). To use these, simply uncomment them. When done troubleshooting: COMMENT THESE OUT! Otherwise you may experience extreme input lag!
